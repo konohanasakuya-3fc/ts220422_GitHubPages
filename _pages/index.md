@@ -1,6 +1,6 @@
 ---
 title: "ここにページのタイトル"
-author: 滝口　朔矢
+author: default
 permalink: /
 ---
 
