@@ -1,13 +1,13 @@
 ---
 title: "ここにページのタイトル"
-author: default
+author: 滝口　朔矢
 permalink: /
 ---
 
 # 見出し
 
 ここにコンテンツを！
-あ。
+。
 。
 
 ---
