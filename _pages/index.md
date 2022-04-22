@@ -4,7 +4,7 @@ author: default
 permalink: /
 ---
 
-# 見出し
+# 美味しいカレーの作り方
 
 ここにコンテンツを！
 。
