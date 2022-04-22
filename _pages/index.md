@@ -12,7 +12,7 @@ permalink: /
 
 普段のカレーに加えるだけで、料理上手の仲間入りができるようなたった一手間を紹介します∩^ω^∩
 
-![image]https://1.bp.blogspot.com/-LHEZgJ6tpeA/UgSL_9y4KrI/AAAAAAAAW5s/DNRPJ4kSvpI/s800/food_curryruce.png
+![image](https://1.bp.blogspot.com/-LHEZgJ6tpeA/UgSL_9y4KrI/AAAAAAAAW5s/DNRPJ4kSvpI/s800/food_curryruce.png)
 
 
 ## お肉にひと手間！
